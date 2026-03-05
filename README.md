@@ -1,0 +1,22 @@
+### hi, i'm abhishek
+
+mechanistic interpretability researcher. economist. i spend most of my time trying to understand what's actually happening inside neural networks, and the rest thinking about what happens to markets and institutions when AI reshapes them.
+
+**currently working on:**
+- mechanistic interpretability research
+- the economics of AI — productivity, labor markets, long-run growth
+- prediction markets as epistemic infrastructure
+
+**interested in:** AI safety · mech interp · prediction markets · crypto as financial infrastructure · effective altruism
+
+---
+
+**recent writing** @ [abhishekdev.com](https://abhishekdev.com)
+
+- [Why mechanistic interpretability matters](https://abhishekdev.com/blog/mechanistic-interpretability-matters.html) — we built the most powerful technology in history and we can't explain how it works
+- [AI will make economists of us all](https://abhishekdev.com/blog/ai-will-make-economists-of-us-all.html) — the most important questions about AI aren't technical. they're economic.
+- [Prediction markets are underrated](https://abhishekdev.com/blog/prediction-markets-are-underrated.html) — the best forecasting tool we have and almost nobody uses it
+
+---
+
+[blog](https://abhishekdev.com) · [linkedin](https://linkedin.com/in/devabhishek)
