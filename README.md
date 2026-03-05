@@ -1,4 +1,4 @@
-### hi, i'm abhishek
+### hi, i'm abhishek 👋
 
 mechanistic interpretability researcher. economist. i spend most of my time trying to understand what's actually happening inside neural networks, and the rest thinking about what happens to markets and institutions when AI reshapes them.
 
