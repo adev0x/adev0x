@@ -275,3 +275,6 @@ mechanistic interpretability researcher. economist. i spend most of my time tryi
 
 <!-- add badge (2026-03-09) -->
 
+
+<!-- update profile (2026-03-09) -->
+
