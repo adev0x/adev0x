@@ -20,3 +20,6 @@ mechanistic interpretability researcher. economist. i spend most of my time tryi
 ---
 
 [blog](https://abhishekdev.com) · [linkedin](https://linkedin.com/in/devabhishek)
+
+<!-- update readme (2026-04-01) -->
+
