@@ -149,3 +149,6 @@ mechanistic interpretability researcher. economist. i spend most of my time tryi
 
 <!-- tweak bio (2026-06-09) -->
 
+
+<!-- tweak bio (2026-06-16) -->
+
