@@ -842,3 +842,6 @@ mechanistic interpretability researcher. economist. i spend most of my time tryi
 
 <!-- update stats (2026-06-26) -->
 
+
+<!-- add social link (2026-06-26) -->
+
