@@ -920,3 +920,6 @@ mechanistic interpretability researcher. economist. i spend most of my time tryi
 
 <!-- fix formatting (2026-07-09) -->
 
+
+<!-- update profile (2026-07-09) -->
+
