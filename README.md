@@ -1082,3 +1082,6 @@ mechanistic interpretability researcher. economist. i spend most of my time tryi
 
 <!-- add project link (2026-08-03) -->
 
+
+<!-- add badge (2026-08-05) -->
+
